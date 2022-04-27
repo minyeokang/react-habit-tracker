@@ -1,6 +1,10 @@
-<h1>track your daily habit</h1>
-<h2>habit tracker</h2>
+# habit tracker
 
-기능 1: 습관을 추가, 삭제 <br>
-기능 2: 습관 횟수를 증가, 감소 <br>
-기능 3: 습관들을 리셋 <br>
+track your daily habit
+
+Function
+
+1. add & delete habits
+2. control numbers of habits
+3. reset habits
+
